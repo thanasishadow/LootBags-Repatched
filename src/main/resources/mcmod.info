@@ -1,0 +1,16 @@
+[
+  {
+    "modid" : "lootbags",
+    "name" : "Loot Bags: Repatched",
+    "version" : "1.0 (Forked from LB:P 2.5.8.7)",
+    "url" : "",
+    "credits" : "Malorolam, Nora, furtabs, and ThanasiShadoW",
+    "authors": ["Malorolam", "Nora", "furtabs", "ThanasiShadoW"],
+    "description": "Add loot pouches to entity drops",
+    "logoFile" : "assets/lootbags/pack.png",
+    "updateUrl" : "",
+    "parent" : "",
+    "screenshots": [],
+    "dependencies": ["Forge@[14.23.5.2855]"]
+  }
+]

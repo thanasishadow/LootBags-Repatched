@@ -1,0 +1,23 @@
+item.lootbags_lootbag_Common.name=Lootbag Comum
+item.lootbags_lootbag_Uncommon.name=Lootbag Incomum
+item.lootbags_lootbag_Rare.name=Lootbag Raro
+item.lootbags_lootbag_Epic.name=Lootbag Épico
+item.lootbags_lootbag_Legendary.name=Lootbag Legendário
+item.lootbags_lootbag_Artifact.name=Lootbag Artefato
+item.lootbags_lootbag_Old_Blue.name=Velho Saco Azul
+item.lootbags_lootbag_Bacon.name=Saco Bacon
+item.lootbags_lootbag_Bat.name=Saco-morcego
+item.lootbags_lootbag_Worn_Out.name=Lootbag Desgastado
+item.lootbags_lootbag_Soaryn.name=Saco Soaryn
+item.lootbags_lootbag_Wyld.name=Saco Wyld
+item.lootbags_lootbag_Darkosto.name=Saco Darkosto
+item.lootbags_lootbag_Direwolf.name=Saco Direwolf20
+item.lootbags_lootbag_Patient.name=Saco Paciente
+item.lootbags_lootbag_Artificial.name=Saco Artificial
+item.lootbags_itemlootbag.name=Saco Desconhecida
+
+tile.lootbags_loot_recycler.name=Reciclador de Saque
+tile.lootbags_loot_opener.name=Abridor de Saco
+tile.lootbags_loot_storage.name=Armazenamento do Saco
+
+jei.loot.title=Lootbag

@@ -1,0 +1,6 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "lootbags:items/lootbag_worn_out_item_texture"
+    }
+}
